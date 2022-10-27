@@ -44,16 +44,19 @@
   display: flex;
 }
 
-#inc-tasks, #compl-tasks {
+#inc-tasks,
+#compl-tasks {
   margin: 0;
   padding: 0px;
 }
 
-.list, .heading {
+.list,
+.heading {
   list-style: none;
 }
 
-.input,.button {
+.input,
+.button {
   outline: none;
 }
 
